@@ -1,6 +1,12 @@
 # (POC) - embed lua script within executable
 
-## xxx
+## "linking"
+
+```
+./link-script main.lua
+```
+
+## static build
   embed-lua was compiled with musl-gcc
 
 ```
